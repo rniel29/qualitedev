@@ -1,6 +1,10 @@
 public class Planning {
+    private int Size;
     public static void main(String[] args) {
 
+    }
+    public Planning(int size) {
+        Size=size;
     }
     public Boolean ajout (Reservation parReserv){
         return false;
