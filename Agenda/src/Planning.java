@@ -8,5 +8,7 @@ public class Planning {
     public Reservation getReservation(Date pardate){
         return null;
     }
-
+    public int plusAncienneReservation(int parDeb,int parFin){
+        return 0;
+    }
 }
