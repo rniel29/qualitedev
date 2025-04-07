@@ -5,5 +5,8 @@ public class Planning {
     public Boolean ajout (Reservation parReserv){
         return false;
     }
+    public Reservation getReservation(Date pardate){
+        return null;
+    }
 
 }
